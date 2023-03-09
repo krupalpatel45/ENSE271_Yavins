@@ -12,6 +12,6 @@ attempt to achieve the following:
 |:-:|:-:|
 |![ ](https://github.com/krupalpatel45/ENSE271_Yavins/blob/main/IABC_WebsitePhotos/1.png)|![ ](https://github.com/krupalpatel45/ENSE271_Yavins/blob/main/IABC_WebsitePhotos/2.png)|
 | | |
-|![ ](https://github.com/krupalpatel45/Kryptronic/blob/main/Photos_Kryptronic/3.png)|![ ](https://github.com/krupalpatel45/Kryptronic/blob/main/Photos_Kryptronic/4.png)|
+|![ ](https://github.com/krupalpatel45/ENSE271_Yavins/blob/main/IABC_WebsitePhotos/3.png)|![ ](https://github.com/krupalpatel45/ENSE271_Yavins/blob/main/IABC_WebsitePhotos/4.png)|
 | | |
-|![ ](https://github.com/krupalpatel45/Kryptronic/blob/main/Photos_Kryptronic/5.png)|![ ]()|
+|![ ](https://github.com/krupalpatel45/ENSE271_Yavins/blob/main/IABC_WebsitePhotos/5.png)|![ ](https://github.com/krupalpatel45/ENSE271_Yavins/blob/main/IABC_WebsitePhotos/6.png)|
