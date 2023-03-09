@@ -1,11 +1,16 @@
-# Kryptronic
-E-Commerce Website
+# IABC Regina
 
-An E-Commerce website for mobile phones sales using HTML, CSS, Java-script, PHP, MySQL, Ajax, & Jason
+To redesign the IABC website in an 
+attempt to achieve the following:
+▹ Optimize organizational activity
+▹ Better site operability, management & maintenance 
+▹ Reduce turnover shock
+▹ Improve user engagement
+
 
 | | |
 |:-:|:-:|
-|![ ](https://github.com/krupalpatel45/Kryptronic/blob/main/Photos_Kryptronic/1.png)|![ ](https://github.com/krupalpatel45/Kryptronic/blob/main/Photos_Kryptronic/2.png)|
+|![ ](https://github.com/krupalpatel45/ENSE271_Yavins/blob/main/IABC_WebsitePhotos/1.png)|![ ](https://github.com/krupalpatel45/ENSE271_Yavins/blob/main/IABC_WebsitePhotos/2.png)|
 | | |
 |![ ](https://github.com/krupalpatel45/Kryptronic/blob/main/Photos_Kryptronic/3.png)|![ ](https://github.com/krupalpatel45/Kryptronic/blob/main/Photos_Kryptronic/4.png)|
 | | |
